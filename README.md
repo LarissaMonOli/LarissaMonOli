@@ -9,6 +9,7 @@ Aqui estão algumas ideias para você começar:
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade estou no primeiro ano do ensino médio e amo sushi🍣
 - 📍 Curitiba-PR
+- [ALURA](www.alura.com.br)
 
 ![](https://media.tenor.com/SG2Y2dkZvqoAAAAM/ori.gi)
 
